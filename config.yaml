@@ -1,0 +1,6 @@
+app_repo: "C:/Users/PC/Sneppx-main/uniroid"
+package: "com.menaammarpro.uniroid"
+activity: "com.menaammarpro.uniroid/.MainActivity"
+apk: "build/app/outputs/flutter-apk/app-release.apk"
+device_serial: ""
+smoke_seconds: 8
